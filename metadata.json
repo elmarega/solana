@@ -1,6 +1,12 @@
 {
-  "name": "Arranq",
-  "symbol": "ARRQ",
-  "description": "Teste.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "name": "Tibia Ban Wave",
+  "symbol": "TBW",
+  "uri": "https://www.tibiawiki.com.br/images/7/76/Tibia_icon.png",
+  "seller_fee_basis_points": 100,
+  "creators": [
+    {
+      "address": "4shPCyWrUr6u6GCJZm5hwAnMsouwxKSAWpTmN5JPZEZU",
+      "share": 100
+    }
+  ]
 }
